@@ -1,0 +1,14 @@
+C:\Users\demro\OneDrive\Masaüstü\Mix\Coding\C#\VeloGamesLibraryManagement\bin\Debug\net6.0\VeloGamesLibraryManagement.exe
+C:\Users\demro\OneDrive\Masaüstü\Mix\Coding\C#\VeloGamesLibraryManagement\bin\Debug\net6.0\VeloGamesLibraryManagement.deps.json
+C:\Users\demro\OneDrive\Masaüstü\Mix\Coding\C#\VeloGamesLibraryManagement\bin\Debug\net6.0\VeloGamesLibraryManagement.runtimeconfig.json
+C:\Users\demro\OneDrive\Masaüstü\Mix\Coding\C#\VeloGamesLibraryManagement\bin\Debug\net6.0\VeloGamesLibraryManagement.dll
+C:\Users\demro\OneDrive\Masaüstü\Mix\Coding\C#\VeloGamesLibraryManagement\bin\Debug\net6.0\VeloGamesLibraryManagement.pdb
+C:\Users\demro\OneDrive\Masaüstü\Mix\Coding\C#\VeloGamesLibraryManagement\obj\Debug\net6.0\VeloGamesLibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demro\OneDrive\Masaüstü\Mix\Coding\C#\VeloGamesLibraryManagement\obj\Debug\net6.0\VeloGamesLibraryManagement.AssemblyInfoInputs.cache
+C:\Users\demro\OneDrive\Masaüstü\Mix\Coding\C#\VeloGamesLibraryManagement\obj\Debug\net6.0\VeloGamesLibraryManagement.AssemblyInfo.cs
+C:\Users\demro\OneDrive\Masaüstü\Mix\Coding\C#\VeloGamesLibraryManagement\obj\Debug\net6.0\VeloGamesLibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\demro\OneDrive\Masaüstü\Mix\Coding\C#\VeloGamesLibraryManagement\obj\Debug\net6.0\VeloGamesLibraryManagement.dll
+C:\Users\demro\OneDrive\Masaüstü\Mix\Coding\C#\VeloGamesLibraryManagement\obj\Debug\net6.0\refint\VeloGamesLibraryManagement.dll
+C:\Users\demro\OneDrive\Masaüstü\Mix\Coding\C#\VeloGamesLibraryManagement\obj\Debug\net6.0\VeloGamesLibraryManagement.pdb
+C:\Users\demro\OneDrive\Masaüstü\Mix\Coding\C#\VeloGamesLibraryManagement\obj\Debug\net6.0\VeloGamesLibraryManagement.genruntimeconfig.cache
+C:\Users\demro\OneDrive\Masaüstü\Mix\Coding\C#\VeloGamesLibraryManagement\obj\Debug\net6.0\ref\VeloGamesLibraryManagement.dll
